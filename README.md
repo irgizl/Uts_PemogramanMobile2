@@ -9,8 +9,6 @@
 
 Berikut, hasil tampilan sebelum dan sesudah mengisi field:
 
-# Android
 ![Output](gambar/android.jpg)
 
-# dekstop
 ![Output](gambar/dekstop.jpg)
