@@ -1,4 +1,4 @@
-# Page Login google dengan Flutter
+# Login from google dengan Flutter
 
 **<p>Nama: Irgi Jaelani</p>**
 **<p>Kelas: TI.21.A.3</p>**
@@ -9,6 +9,8 @@
 
 Berikut, hasil tampilan sebelum dan sesudah mengisi field:
 
+# Android
 ![Output](gambar/android.jpg)
 
+# dekstop
 ![Output](gambar/dekstop.jpg)
