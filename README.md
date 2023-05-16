@@ -7,8 +7,6 @@
 
 ## Output 
 
-Saya, membuat tampilan login untuk  “Toko Tas”. Terlihat pada tampilan login tertapat: icon; header; field/kolom username dan password; cek box; forgot password; button login/masuk.
-
 Berikut, hasil tampilan sebelum dan sesudah mengisi field:
 
 ![Output](gambar/android.jpg)
